@@ -7,7 +7,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<properties>
-		<c2eclipse.wtp.contextRoot>/</c2eclipse.wtp.contextRoot>
+		<m2eclipse.wtp.contextRoot>/</m2eclipse.wtp.contextRoot>
 	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/org.mybatis/mybatis -->
